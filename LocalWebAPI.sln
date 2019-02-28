@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalWebAPI.iOS", "LocalWeb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalWebAPI", "LocalWebAPI\LocalWebAPI\LocalWebAPI.csproj", "{4033BC60-766A-4CC7-AA51-3E2792C41D40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalWebAPI.WebAPI", "LocalWebAPI22\LocalWebAPI.WebAPI.csproj", "{64C3AFC3-204C-4394-B2DC-F4141B51D353}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalWebAPI.WebAPI", "LocalWebAPI.WebAPI\LocalWebAPI.WebAPI.csproj", "{64C3AFC3-204C-4394-B2DC-F4141B51D353}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
